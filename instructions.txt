@@ -1,2 +1,18 @@
 after commit:
 git push origin 'branch'
+
+/////////////////////////////////
+git log --oneline --all
+to merge:
+go to branch you are merging into
+
+git merge 'branch'
+/////////////////////////////////
+commands :
+git checkout -b 'name'
+git log --oneline --all --graph
+
+/////////////////////////////////
+
+git fetch:  update
+git pull origin  'missing branch'
