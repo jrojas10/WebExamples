@@ -1,0 +1,2 @@
+after commit:
+git push origin 'branch'
