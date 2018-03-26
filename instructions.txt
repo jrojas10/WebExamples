@@ -15,4 +15,4 @@ git log --oneline --all --graph
 /////////////////////////////////
 
 git fetch:  update
-git pull origin  'missing branch'
+git checkout 'missing branch'
